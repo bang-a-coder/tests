@@ -1,4 +1,4 @@
-import { capitalise } from "./capitalize"
+import { capitalise } from "../funcs/capitalize"
 
 let correct = 'Abcdefg' 
 
